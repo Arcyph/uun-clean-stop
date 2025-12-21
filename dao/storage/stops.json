@@ -1,0 +1,18 @@
+[
+  {
+    "id": "c6d7f1e8-1f9b-4d0a-9c1d-1e4a2f1a9b00",
+    "code": 490014,
+    "name": "Anděl",
+    "latitude": 50.0725,
+    "longitude": 14.4037,
+    "note": "Přístřešek u výstupu z metra B"
+  },
+  {
+    "id": "a1e2b3c4-d5f6-7890-abcd-ef0123456789",
+    "code": 190015,
+    "name": "I. P. Pavlova",
+    "latitude": 50.0751,
+    "longitude": 14.4296,
+    "note": null
+  }
+]
