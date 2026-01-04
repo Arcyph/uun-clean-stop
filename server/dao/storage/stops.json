@@ -11,8 +11,16 @@
     "id": "a1e2b3c4-d5f6-7890-abcd-ef0123456789",
     "code": 190015,
     "name": "I. P. Pavlova",
-    "latitude": 50.0751,
+    "latitude": 50.085,
     "longitude": 14.4296,
     "note": null
+  },
+  {
+    "name": "TEST",
+    "code": 8989,
+    "latitude": 50.085,
+    "longitude": 14.45,
+    "note": null,
+    "id": "bf2c4351-a5e3-4846-9a0e-d88545810a00"
   }
 ]

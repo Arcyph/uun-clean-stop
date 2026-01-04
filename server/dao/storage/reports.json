@@ -3,11 +3,11 @@
     "id": "3f9a2b1c-8d77-4e3a-9b1a-2c3d4e5f6789",
     "stopId": "c6d7f1e8-1f9b-4d0a-9c1d-1e4a2f1a9b00",
     "createdAt": "2025-12-20T18:24:11Z",
-    "updatedAt": "2025-12-20T18:24:11Z",
-    "status": "Přijato",
+    "updatedAt": "2026-01-04T19:57:19.512Z",
+    "status": "Vyřešeno",
     "damageType": "Graffiti",
     "severity": "Střední",
-    "description": "Sprej na zadní stěně přístřešku.",
+    "description": "Sprej na zadní a horní stěně přístřešku.",
     "photoUrl": "https://example/photos/3f9a2b1c.jpg",
     "trackingCode": "9K4F7Q"
   },
@@ -22,5 +22,17 @@
     "description": null,
     "photoUrl": null,
     "trackingCode": "B2M7X1"
+  },
+  {
+    "stopId": "c6d7f1e8-1f9b-4d0a-9c1d-1e4a2f1a9b00",
+    "status": "Přijato",
+    "damageType": "Rozbité sklo",
+    "severity": "Nízká",
+    "description": null,
+    "photoUrl": null,
+    "id": "2e828638-2909-43b9-9bae-bba321366bed",
+    "createdAt": "2026-01-04T16:45:30.478Z",
+    "updatedAt": "2026-01-04T16:45:30.478Z",
+    "trackingCode": "6SSXV5"
   }
 ]
